@@ -1,0 +1,4 @@
+data/annotations/instances_train2017.json
+data/annotations/person_keypoints_train2017.json
+data/annotations/*.json
+data/annotations_trainval2017.zip
